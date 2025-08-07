@@ -19,3 +19,4 @@ planner = PlanningAgent()
 
 # Use the agent
 plan = planner.create_plan("Develop a new mobile application.")
+print("Plan:", plan)
