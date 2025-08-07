@@ -19,3 +19,4 @@ coder = CodingAgent()
 
 # Use the agent
 code_snippet = coder.generate_code("Create a Python function to calculate the factorial of a number.")
+print("Generated Code:", code_snippet)
