@@ -19,3 +19,4 @@ researcher = ResearchAgent()
 
 # Use the agent
 research_summary = researcher.search("What are the latest advancements in AI?")
+print("Research Summary:", research_summary)
